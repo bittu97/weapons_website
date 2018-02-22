@@ -1,0 +1,100 @@
+
+html, body {
+    height: 100%;
+}
+
+img {
+    max-width: 100%;
+}
+
+#cover {
+    background: url('img/sword3.jpg') center center no-repeat;
+    background-size: cover;
+    color: white;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+#cover-caption {
+    font-family:serif;
+    font-size: 1.4rem;
+    font-weight: 200;
+    max-width: 60rem;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.row {
+    height: inherit;
+}
+
+#cover-caption h1 {
+    font-weight: 500;
+    color: whitesmoke;
+}
+
+h6 {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 0.8rem;
+    letter-spacing: 0.1rem;
+}
+
+#sec-2 {
+    height: 30rem;background-color: rgba(9, 8, 8, 0.60);
+}
+
+.sec-content {
+    padding: 8rem 0rem;
+    overflow: hidden;
+    
+}
+
+.sec-content img {
+    margin-bottom: -6rem;
+    margin-top: -3rem;
+}
+
+.blockquote {
+    border-left: none;
+}
+
+#main-footer {
+    background: #262F36;
+    color: white;
+    padding: 3rem 0;
+    font-size: 1rem;
+}
+
+#main-footer h6 {
+    color: #718FA9;
+}
+
+#main-footer a {
+    color: #6C6F73;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
